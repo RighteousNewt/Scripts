@@ -1,4 +1,4 @@
 # Scripts
-A compilation of all scripts that I have created, or helped create.
+This is a conglomeration of scripts that I've written over the years.
 
-This directory will be the main directory for all scripts.
+WARNING: I cannot guarantee all scripts in this repo have been thoroughly tested or even work at all! These are working scripts that are in all different stages of development. Use at your own risk!
